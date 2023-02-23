@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 require('dotenv').config()
+=======
+>>>>>>> 841fe89 (first commit)
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
