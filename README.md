@@ -8,11 +8,7 @@ Have fun coding!
 
 ## ✍️ Description 
 
-<<<<<<< HEAD
 The objective of this challenge is to reproduce the Wordle game (https://www.nytimes.com/games/wordle/index.html). You can either use the provided frontend or build your own application with your own rules. In both cases, you need to develop a backend and link it to a MongoDB database.
-=======
-The objective of this challenge is to reproduce the Wordle game. You can either use the provided frontend or build your own application with your own rules. In both cases, you need to develop a backend and link it to a MongoDB database.
->>>>>>> 841fe89 (first commit)
 
 Configure the connection to your database. Create a Game model in a models/games.js file that will contain each played word and the date of the game in the database. In the routes/games.js file, create an array of ten words of your choice that you will assign to the variable "words". These words will have to be guessed by the players of your Wordle.
 
@@ -35,11 +31,6 @@ For a bonus challenge, you can further develop your Wordle by adding the followi
 - Adding a timer (client-side)
 - Modifying the application behavior so that the word is the same for everyone and changes every day.
 
-<<<<<<< HEAD
-=======
-[data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)
-
->>>>>>> 841fe89 (first commit)
 Additional Features:
 
 - Implement a scoring system to keep track of the player's progress and rank them on a leaderboard.
@@ -75,11 +66,8 @@ yarn install
 
 ## 🚀 Deploy 
 
-<<<<<<< HEAD
 ⇒ https://wordle-frontend-murex.vercel.app/
-=======
-⇒ 
->>>>>>> 841fe89 (first commit)
+
 
 Vercel : [https://vercel.com/](https://vercel.com/)
 
