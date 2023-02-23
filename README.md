@@ -8,7 +8,7 @@ Have fun coding!
 
 ## ✍️ Description 
 
-The objective of this challenge is to reproduce the Wordle game. You can either use the provided frontend or build your own application with your own rules. In both cases, you need to develop a backend and link it to a MongoDB database.
+The objective of this challenge is to reproduce the Wordle game (https://www.nytimes.com/games/wordle/index.html). You can either use the provided frontend or build your own application with your own rules. In both cases, you need to develop a backend and link it to a MongoDB database.
 
 Configure the connection to your database. Create a Game model in a models/games.js file that will contain each played word and the date of the game in the database. In the routes/games.js file, create an array of ten words of your choice that you will assign to the variable "words". These words will have to be guessed by the players of your Wordle.
 
