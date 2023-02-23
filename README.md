@@ -31,8 +31,6 @@ For a bonus challenge, you can further develop your Wordle by adding the followi
 - Adding a timer (client-side)
 - Modifying the application behavior so that the word is the same for everyone and changes every day.
 
-[data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)
-
 Additional Features:
 
 - Implement a scoring system to keep track of the player's progress and rank them on a leaderboard.
@@ -78,4 +76,4 @@ Yoann Drx, Paris, France
 
 ## 🌐 Network
 
-LinkedIn : [https://www.linkedin.com/in/yoann-andrieux/](https://www.linkedin.com/in/yoann-andrieux/)# wordle-backend
+LinkedIn : [https://www.linkedin.com/in/yoann-andrieux/](https://www.linkedin.com/in/yoann-andrieux/)
