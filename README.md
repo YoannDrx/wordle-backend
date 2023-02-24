@@ -66,7 +66,7 @@ yarn install
 
 ## 🚀 Deploy 
 
-⇒ 
+⇒ https://wordle-frontend-nine.vercel.app/
 
 
 Vercel : [https://vercel.com/](https://vercel.com/)
